@@ -1,6 +1,6 @@
 {
     "name": "discord-leveling-firebase",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "description": "Sistema de leveling exponencial para bots do Discord.",
     "main": "lib/index.js",
     "scripts": {},
@@ -10,8 +10,11 @@
     },
     "keywords": [
         "discord",
+        "discordjs",
         "leveling",
-        "discord-js"
+        "firebase",
+        "discord-leveling",
+        "ranking"
     ],
     "author": "João Vítor <joaovitorsf7@hotmail.com>",
     "license": "MIT",
