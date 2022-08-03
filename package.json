@@ -1,6 +1,6 @@
 {
     "name": "discord-leveling-firebase",
-    "version": "0.9.1",
+    "version": "0.9.15",
     "description": "Sistema de leveling exponencial para bots do Discord.",
     "main": "lib/index.js",
     "scripts": {},
