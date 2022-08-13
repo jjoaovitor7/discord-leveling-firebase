@@ -23,7 +23,7 @@ const leveling = new Leveling(client, {
   appId: "",
 });
 
-client.on("message", async (message) => {
+client.on("messageCreate", async (message) => {
   leveling.leveling(message);
 });
 ```
@@ -44,7 +44,7 @@ leveling.setlevelingchannel(message);
 leveling.disablelevelingchannel(message);
 ```
 
-> levelingranking
+> ranking
 ```
-leveling.levelingranking(message, length);
+leveling.ranking(message, length);
 ```
